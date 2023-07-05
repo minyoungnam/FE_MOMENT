@@ -68,7 +68,7 @@ function BoardItem({
   }, [item]);
 
   const [cardProfileImgSrc, cardProfileImgRef] = useIntersectionObserver(
-    "/path/to/placeholder.jpg", // placeholder 이미지 경로
+    "/img/white.png",
     item.hostProfileUrl
   );
 
@@ -243,7 +243,7 @@ const ImageContainer = styled.div`
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #bbbbbb;
+  /* background-color: #bbbbbb; */
   cursor: pointer;
   overflow: hidden;
   margin-bottom: 20px;
@@ -355,7 +355,7 @@ const CardProfileImg = styled.div`
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #bbbbbb;
+  /* background-color: #bbbbbb; */
   margin-right: 3%;
   cursor: pointer;
   @media (max-width: 1200px) {

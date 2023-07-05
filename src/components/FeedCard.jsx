@@ -43,11 +43,11 @@ function FeedCard({ data, onClick, openFeedDetail }) {
   };
 
   const [cardProfileImgSrc, cardProfileImgRef] = useIntersectionObserver(
-    "/path/to/placeholder.jpg", // placeholder 이미지 경로
+    "/img/white.png",
     data.photoUrl
   );
   const [profileImgSrc, profileImgRef] = useIntersectionObserver(
-    "/path/to/placeholder.jpg", // placeholder 이미지 경로
+    "/img/white.png",
     data.profileImgUrl
   );
 
@@ -215,6 +215,6 @@ const CardProfileImg = styled.div`
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #bbbbbb;
+  /* background-color: #bbbbbb; */
   cursor: pointer;
 `;
