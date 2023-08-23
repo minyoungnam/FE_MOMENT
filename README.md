@@ -15,7 +15,7 @@
 >
 > 💛 [모먼트 노션](https://www.notion.so/Moment-7c56ea546ba44ab286ce1cdbaea7ecd7)
 >
-> 💜 [모먼트 원페이지 노션](https://www.notion.so/Moment-7c56ea546ba44ab286ce1cdbaea7ecd7)
+> 💜 [모먼트 원페이지 노션](https://shorthaired-witness-e0e.notion.site/MOMENT-33d07511dbd843e2819b7bb7321c83df)
 
 
 ## 팀
